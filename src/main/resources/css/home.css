@@ -1,0 +1,15 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 7, 2023, 8:57:16 PM
+    Author     : dagov
+*/
+
+body {
+    height: 100vh;
+    width: 100%;
+    background: #131415;
+    color: #FFF;
+}
